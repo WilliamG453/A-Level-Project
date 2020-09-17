@@ -1,0 +1,12 @@
+from tkinter import *
+import tkinter
+
+
+window = tkinter.Tk()
+window.title("Astriod Game")
+window.geometry('1920x1080')
+window.configure(bg="black")
+
+
+
+window.mainloop()
